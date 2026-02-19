@@ -60,6 +60,7 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 </div>
 
 ### Ferramentas de Desenvolvimento
+
 <div align="center">
   
 ![Git](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
@@ -75,12 +76,15 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 ---
 
-## IDE que estou usando
+## IDE's que estou usando
+
+<div align="center">
 
 ![antigravity](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 ![vscode](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vscode.svg)
+![cursor](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
 
-depois crio um pro cursor
+</div>
 
 ---
 
