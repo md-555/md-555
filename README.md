@@ -96,10 +96,10 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 <div align="center">
   
 <a href="https://galeria-mg-555-37.vercel.app">
-  <img src="https://galeria-mg-555-37.vercel.app/api/github-stats/mg-555-37?theme=ocean" width="400" alt="Estatísticas do GitHub">
+  <img src="https://galeria-mg-555-37.vercel.app/api/github-stats/mg-555-37?theme=neon" width="400" alt="Estatísticas do GitHub">
 </a>
 <a href="https://galeria-mg-555-37.vercel.app">
-  <img src="https://galeria-mg-555-37.vercel.app/api/github-langs/mg-555-37?theme=ocean" width="400" alt="Linguagens mais utilizadas">
+  <img src="https://galeria-mg-555-37.vercel.app/api/github-langs/mg-555-37?theme=neon" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
