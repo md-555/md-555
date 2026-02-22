@@ -109,8 +109,6 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 <div align="center">
 
-  Voces sabem que podem conversar comigo diretamente né?
-
 [![Gmail](https://galeria-mg-555-37.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
 [![WhatsApp](https://galeria-mg-555-37.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 </div>
@@ -122,5 +120,3 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 **Obrigado por visitar meu perfil!**
 
 </div>
-
-### mg-555-37
